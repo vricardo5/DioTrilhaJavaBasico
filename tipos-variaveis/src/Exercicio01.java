@@ -130,6 +130,7 @@ public class Exercicio01 {
         }
     }
 
+    @SuppressWarnings("unused")
     private static void switchSemana() {
 
         String dia = "Terça";
@@ -161,6 +162,7 @@ public class Exercicio01 {
         }
     }
 
+    @SuppressWarnings("unused")
     private static void switchNumero() {
         int numero = 4;
         switch (numero) {
@@ -181,6 +183,7 @@ public class Exercicio01 {
         }
     }
 
+    @SuppressWarnings("unused")
     private static void switchFerias() {
         String mes = "dezembro";
         switch (mes) {
